@@ -1,0 +1,15 @@
+commit df758ae8e356ae2543a4afe387309ee4c6e33f34 (HEAD -> main)
+Author: rammer7412 <coderammer7412@gmail.com>
+Date:   Mon May 13 16:26:25 2024 +0900
+
+    assignment 2-2
+
+commit 9fd9145f2b85255cc82f77db4e80915db92c171f
+Author: rammer7412 <coderammer7412@gmail.com>
+Date:   Mon May 13 16:24:55 2024 +0900
+
+    assignment 2-1
+
+commit d89ac4cc6dbd092ce69b501f442fb94701787037 (origin/main, origin/HEAD)
+Author: rammer7412 <154107683+rammer7412@users.noreply.github.com>
+Date:   Mon May 13 16:23:39 2024 +0900

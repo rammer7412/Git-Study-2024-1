@@ -1,0 +1,12 @@
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   assignment 2-1.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   assignment 2-2.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        assignment 2-3.txt
